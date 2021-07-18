@@ -1,0 +1,4 @@
+Install http-server on a Linux
+
+sudo npm install --global http-server
+ 
