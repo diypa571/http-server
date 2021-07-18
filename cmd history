@@ -1,0 +1,22 @@
+1905  npm -v
+ 1906  truffle compile
+ 1907  truffle migrate
+ 1908  npm run start
+ 1909  truffle migrate --reset ---compile-all
+ 1910  npm start run
+ 1911  npm i react-scripts
+ 1912  npm run start
+ 1913  yarn build
+ 1914  npm install -g create-react-app
+ 1915  npm install --save react react-dom
+ 1916  npm run start
+ 1917  npm start
+ 1918  clear
+ 1919  npm run start
+ 1920  cd .
+ 1921  cd ..
+ 1922  chmod 777 -R ipfsz
+ 1923  cd ipfsz
+ 1924  npm run start
+ 1925  cd Desktop
+ 1926  mkdir ipfsz
